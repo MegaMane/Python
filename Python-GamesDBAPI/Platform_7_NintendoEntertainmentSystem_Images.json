@@ -1,0 +1,77 @@
+{
+    "code": 200,
+    "status": "Success",
+    "data": {
+        "count": 1,
+        "base_url": {
+            "original": "https://cdn.thegamesdb.net/images/original/",
+            "small": "https://cdn.thegamesdb.net/images/small/",
+            "thumb": "https://cdn.thegamesdb.net/images/thumb/",
+            "cropped_center_thumb": "https://cdn.thegamesdb.net/images/cropped_center_thumb/",
+            "medium": "https://cdn.thegamesdb.net/images/medium/",
+            "large": "https://cdn.thegamesdb.net/images/large/"
+        },
+        "images": {
+            "7": [
+                {
+                    "id": 22,
+                    "type": "banner",
+                    "filename": "platform/banners/7-1.png"
+                },
+                {
+                    "id": 38,
+                    "type": "fanart",
+                    "filename": "platform/fanart/7-1.jpg"
+                },
+                {
+                    "id": 39,
+                    "type": "fanart",
+                    "filename": "platform/fanart/7-2.jpg"
+                },
+                {
+                    "id": 60,
+                    "type": "fanart",
+                    "filename": "platform/fanart/7-3.jpg"
+                },
+                {
+                    "id": 83,
+                    "type": "banner",
+                    "filename": "platform/banners/7-2.jpg"
+                },
+                {
+                    "id": 128,
+                    "type": "fanart",
+                    "filename": "platform/fanart/7-4.jpg"
+                },
+                {
+                    "id": 184,
+                    "type": "fanart",
+                    "filename": "platform/fanart/7-5.jpg"
+                },
+                {
+                    "id": 185,
+                    "type": "fanart",
+                    "filename": "platform/fanart/7-6.jpg"
+                },
+                {
+                    "id": 222,
+                    "type": "boxart",
+                    "filename": "platform/boxart/7-2.jpg"
+                },
+                {
+                    "id": 282,
+                    "type": "icon",
+                    "filename": "/consoles/png48/nintendo-entertainment-system-nes-1336524652.png"
+                }
+            ]
+        }
+    },
+    "pages": {
+        "previous": null,
+        "current": "https://api.thegamesdb.net/v1/Platforms/Images?apikey=a94068d9ef3e220c798a35644136368664b13ded607779d7f48050da7bc504c1&platforms_id=7&page=1",
+        "next": null
+    },
+    "remaining_monthly_allowance": 2994,
+    "extra_allowance": 0,
+    "allowance_refresh_timer": 2573460
+}

@@ -1,0 +1,609 @@
+{
+    "code": 200,
+    "status": "Success",
+    "data": {
+        "count": 20,
+        "games": [
+            {
+                "id": 316,
+                "game_title": "8 Eyes",
+                "release_date": "1990-01-01",
+                "platform": 7,
+                "players": 2,
+                "overview": "CONTROL MAN AND BIRD IN A FIGHT FOR THE EIGHT JEWELS OF POWER!\r\n\r\nAfter hundreds of years of chaos, mankind has finally emerged from the ruins of nuclear war. This world of the distant future has once again fluorished under the guidance of the Great King, who harnessed the power of the 8 Eyes to rebuild the planet.\r\n\r\nThese strange jewels of power were formed at the eyes, or centers, of the eight nuclear explosions which nearly destroyed the Earth. In the wrong hands, the 8 Eyes could cause untold destruction...And now, they have been seized by the Great King's eight Dukes, in a desperate bid to gain control of the world for themselves. They have banished the King to the nuclear wastelands, and already their squabbling threatens to plunge the world into war once again!\r\n\r\nThe task of retrieving the 8 Eyes falls to you, Orin the Falconer, the bravest and mightiest of the King's Guardsmen. With your fighting falcon, Cutrus, you must penetrate each of the eight Dukes' castles. There you will face the Dukes' soldiers, and battle strange nuclear mutants such as living skeletons, giant wasps, and mud men. You must defeat the monstrous Boss of each castle to retrieve the Jewel of Power he guards.\r\n\r\nThen, to complete your quest, return the 8 Eyes to the Altar of Peace to await the return on the Great King, so that he may finish the rebuilding of Earth. Your reward will be the the eternal gratitude of all mankind!",
+                "last_updated": "2018-07-11 21:05:01",
+                "rating": "E - Everyone",
+                "coop": "Yes",
+                "youtube": "Y-jxDeo5JPc",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    8787
+                ],
+                "genres": [
+                    2
+                ],
+                "publishers": [
+                    87
+                ],
+                "alternates": null
+            },
+            {
+                "id": 317,
+                "game_title": "10-Yard Fight",
+                "release_date": "1985-10-18",
+                "platform": 7,
+                "players": 2,
+                "overview": "The game is viewed in a top-down perspective and is vertical scrolling. The player does not select plays for either offense or defense. On offense, the player simply receives the ball upon the snap and either attempt to run with the quarterback, toss the ball to one of two running backs, or throw the ball to the one long distance receiver - basically the option offense. On defense, the player chooses one of two players to control, and the computer manipulates the others. The ball can also be punted or a field goal can be attempted.",
+                "last_updated": "2018-07-11 21:40:16",
+                "rating": "E - Everyone",
+                "coop": "No",
+                "youtube": "90PSN3lEuGY",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    6037
+                ],
+                "genres": [
+                    11
+                ],
+                "publishers": [
+                    3
+                ],
+                "alternates": [
+                    "10\u30e4\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8"
+                ]
+            },
+            {
+                "id": 321,
+                "game_title": "Wrecking Crew",
+                "release_date": "1985-06-18",
+                "platform": 7,
+                "players": 2,
+                "overview": "The player controls Mario and attempts to destroy all of a certain set of objects with a large hammer on each of 100 levels. Mario cannot jump because of the hammer's weight. Each level takes place on a playfield divided into an invisible grid, each space of which can contain one object. Objects include destructible walls, pillars, and ladders, indestructible barrels and ladders, bombs that destroy all connected destructible objects, and various enemies that Mario must avoid. Doors may also exist, which can be opened to cause enemies to move harmlessly into the background.",
+                "last_updated": "2020-07-14 15:57:48",
+                "rating": "Not Rated",
+                "coop": "No",
+                "youtube": "https:\/\/www.youtube.com\/watch?v=XClZDdTzo-E",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    6037
+                ],
+                "genres": [
+                    1,
+                    5
+                ],
+                "publishers": [
+                    3
+                ],
+                "alternates": null
+            },
+            {
+                "id": 322,
+                "game_title": "Wrath of the Black Manta",
+                "release_date": "1990-04-02",
+                "platform": 7,
+                "players": 1,
+                "overview": "Big Apple crime is rotten to the core. Now, there's only one way to keep the peace. The way of the Ninja! Introducing the deadliest fighting skills the game world has ever seen! Ten awesome powers, including: Art of Invisibility. Disappear and become invulnerable to attack. Art of Fire Ring: incinerate enemies caught in your deadly ring of fire. Art of Teleportation: Freeze time to reposition yourself and surprise attackers.",
+                "last_updated": "2018-07-11 21:05:01",
+                "rating": null,
+                "coop": "No",
+                "youtube": "https:\/\/www.youtube.com\/watch?v=7DZLNepMAxw",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    296
+                ],
+                "genres": [
+                    1
+                ],
+                "publishers": [
+                    56
+                ],
+                "alternates": null
+            },
+            {
+                "id": 323,
+                "game_title": "Wolverine",
+                "release_date": "1991-10-10",
+                "platform": 7,
+                "players": 1,
+                "overview": "Stranded on a remote, deserted island by his arch enemies, Sabretooth and Magneto, Marvel Comics' Wolverine must fight the battle of his life. Super-human powers, including regenerative healing abilities, an indestructible Adamantium skeleton and retractable razor sharp claws that slice through anything, make Wolverine a terrifying adversary... but has he finally met his match? Lead Wolverine in this world-class struggle against Sabretooth and the evil genius, Magneto. In the heat of battle, fellow X-Men Havok, Jubilee and Psylocke come to your side helping even out the score. To survive, you must complete 9 missions, including The Battle for the Skies, Trial by Fire, Trial by Water, The Dungeon of Traps, and The Land of Nightmares, until, at long last, you face your ultimate foes. Prepare for the most exciting and unpredictable X-Men adventure of them all!",
+                "last_updated": "2018-07-11 21:05:01",
+                "rating": null,
+                "coop": "No",
+                "youtube": "https:\/\/www.youtube.com\/watch?v=WN8DnJR5UD8",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    7940
+                ],
+                "genres": [
+                    1,
+                    15
+                ],
+                "publishers": [
+                    89
+                ],
+                "alternates": null
+            },
+            {
+                "id": 324,
+                "game_title": "Track & Field II",
+                "release_date": "1989-06-01",
+                "platform": 7,
+                "players": 2,
+                "overview": "The greatest athletes from around the world have gathered for the grandest sporting spectacle since the golden age of Greece. This pressure-packed competition is as fierce as a starved lion. Surviving is a matter of sweat and concentration in Taekwondo, pole vaulting, canoeing, skeet shooting, hammer throwing, high diving, archery, hurdles, gymnastics, hang gliding, pistol firing, arm wrestling, fencing, triple jumping and swimming... Whew! Wears you out just to read them all. The odds in Vegas say you don't have enough strength, stamina or skill, but you know better. And as long as you win, you're the crowd favorite. But lose, and you might as well turn in your jockstrap and joystick.",
+                "last_updated": "2018-07-06 22:32:55",
+                "rating": null,
+                "coop": "No",
+                "youtube": "https:\/\/www.youtube.com\/watch?v=BRayDY9xFRc",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    4765
+                ],
+                "genres": [
+                    11
+                ],
+                "publishers": [
+                    23
+                ],
+                "alternates": [
+                    "Track and Field 2"
+                ]
+            },
+            {
+                "id": 325,
+                "game_title": "Track & Field",
+                "release_date": "1987-04-20",
+                "platform": 7,
+                "players": 2,
+                "overview": "This ain't no 20-minute workout. It's the ultimate in head-to-head competition, in 8 grueling events. 100 meter dash. Long jump. Hurdles. Javelin. Skeet shooting. Triple jump. Archery. And the high jump. No timeouts, no breathers, no water boys. Just you and your own exhaustion. So get psyched. Pick your level of competition and the opening event. Then block out the roar of the crowd and take a deep breath. Because it's not whether you win or lose. It's whether you survive!",
+                "last_updated": "2018-07-11 21:05:01",
+                "rating": null,
+                "coop": "No",
+                "youtube": "https:\/\/www.youtube.com\/watch?v=Jm0AoAJ3TF0",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    4765
+                ],
+                "genres": [
+                    11
+                ],
+                "publishers": [
+                    23
+                ],
+                "alternates": null
+            },
+            {
+                "id": 326,
+                "game_title": "720 Degrees",
+                "release_date": "1986-12-19",
+                "platform": 7,
+                "players": 2,
+                "overview": "Hop on and hang ten as you crash around corners, swerve on sidewalks, and leap over the locals at Skate City, a skateboarder's fantasy world where virtually every surface is skateable. Flip and twist around the street fighters, Frisbee throwers, hard bodies and killer bees that jam city streets. Polish your skills and take your act to the skate parks where you'll vie for medals and cash in downhill, jump, ramp, and slalom competition. Shoot the tubes, \"catch air\" as you fly off ramps - master all of the moves including the dangerous 720. You'll need every edge as you try to become champion of the skating world!",
+                "last_updated": "2018-07-11 21:40:17",
+                "rating": "E - Everyone",
+                "coop": "No",
+                "youtube": "MgMCDBQnSlE",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    1
+                ],
+                "genres": [
+                    11
+                ],
+                "publishers": [
+                    90
+                ],
+                "alternates": [
+                    "720\u00b0"
+                ]
+            },
+            {
+                "id": 327,
+                "game_title": "The Adventures of Bayou Billy",
+                "release_date": "1988-08-12",
+                "platform": 7,
+                "players": 1,
+                "overview": "The player takes control of the title character, Billy West, who must fight save to his girlfriend Annabelle Lane from the gang of Godfather Gordon. There are a total of ten stages in all: six side-scrolling beat-em-up stages (or street fighting stages, as the game actually dubs them), two light gun shooting (shoot-'em-up) stages, and two action driving stages.",
+                "last_updated": "2020-05-23 23:58:31",
+                "rating": "Not Rated",
+                "coop": "No",
+                "youtube": "CUZcbojyLBs",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    4765
+                ],
+                "genres": [
+                    1,
+                    7,
+                    8
+                ],
+                "publishers": [
+                    23
+                ],
+                "alternates": [
+                    "Mad City",
+                    "\u30de\u30c3\u30c9\u30fb\u30b7\u30c6\u30a3"
+                ]
+            },
+            {
+                "id": 328,
+                "game_title": "Adventures of Lolo",
+                "release_date": "1989-04-20",
+                "platform": 7,
+                "players": 1,
+                "overview": "Prince Lolo of Gentryland visited Eden, a country of love and peace, and enjoyed many pleasant days with Princess Lala of Eden. But one day, Egger, the King of Darkness, who had an evil plot to conquer Eden, spirited the Princess away before Lolo's eyes.\r\nAfter a long and difficult journey, Lolo has come to the evil Castle of the Labyrinth. The castle is guarded by an army of evil monsters led by Egger, the King of Darkness.\r\n\r\nCan Lolo solve the seemingly endless series of mazes and save Lala? Lolo is not gifted with strength or agility, but has great courage and patience. Now the battle of wits begins. Good luck, Lolo!",
+                "last_updated": "2018-07-11 21:05:01",
+                "rating": null,
+                "coop": "No",
+                "youtube": "Jsfkf8l3XnA",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    3694
+                ],
+                "genres": [
+                    1,
+                    5
+                ],
+                "publishers": [
+                    91
+                ],
+                "alternates": null
+            },
+            {
+                "id": 329,
+                "game_title": "Airwolf",
+                "release_date": "1989-06-19",
+                "platform": 7,
+                "players": 1,
+                "overview": "Deep within enemy territory, your fellow countrymen are imprisoned. Only one man in the free world would dare attempt to save them. You, Stringfellow Hawke, commander of Airwolf. And yet, as you strap yourself into the cockpit of your supersonic jet copter, you know this is the most dangerous assignment you have ever flown.\r\n\r\nYour mission is mapped out. Airwolf's heat-seeking missiles and superpowered machine guns are fired up, ready to blow the terrorists away. But can you evade enemy radar time after time? Can you sneak behind the enemy lines, find the captives and bring them to safety before you crash land or worse?\r\n\r\nHeadquarters knows that you have the skill and firepower it takes. You say you've got the guts... now prove it!",
+                "last_updated": "2020-05-29 23:33:48",
+                "rating": "Not Rated",
+                "coop": "No",
+                "youtube": "https:\/\/www.youtube.com\/watch?v=WqjGPqU70tw",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    194
+                ],
+                "genres": [
+                    1,
+                    8,
+                    13
+                ],
+                "publishers": [
+                    28
+                ],
+                "alternates": null
+            },
+            {
+                "id": 330,
+                "game_title": "Asterix",
+                "release_date": "1993-01-01",
+                "platform": 7,
+                "players": 1,
+                "overview": "OBELIX has disappeared...\r\n\r\nThe peace and quiet of the small village of indomitable Gauls is broken by a disturbing piece of news: Obelix has failed to return from his wild boar hunt. The village council convenes and Asterix decides to set off to find his friend.\r\n\r\nLeave with him and travel throughout Gaul, across the Roman Empire, taking your search as far afield as the Egyptian Pyramids...\r\n\r\nAnd as you battle with the Roman armies and avoid the traps set by Caesar's spies, perhaps you will find Obelix.\r\n\r\nMagic potion, Romans, fights, punches, catapults, wild boar, not forgetting that fish that's not quite \"fresh\"...\r\n\r\nRELIVE THE ADVENTURES OF ASTERIX THE GAUL!",
+                "last_updated": "2020-05-29 23:40:23",
+                "rating": "Not Rated",
+                "coop": "No",
+                "youtube": "A1GeF2LBn7s",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    1097
+                ],
+                "genres": [
+                    15
+                ],
+                "publishers": [
+                    72
+                ],
+                "alternates": null
+            },
+            {
+                "id": 331,
+                "game_title": "Back to the Future Part II & III",
+                "release_date": "1990-12-31",
+                "platform": 7,
+                "players": 1,
+                "overview": "Get ready for a wild romp through time, Marty McFly, 'cause you're about to take off on a double mission to save the past, present and future! Better load up on pizza and soda as you rocket to the year 2015 in Doc's supercharged time machine. Hang on to your hi-speed hoverboard as you teach Biff Tannen a thing or two about stealing your Sports Almanac, and locate the special objects he's hidden throughout time. Then, if your flux capacitor isn't on the fritz, it's off to the Wild West, where sharp shootin' gunslingers want you out of town by sundown. The fate of the world -- not to mention generations of McFly's -- is in your hands... and you're out of time!",
+                "last_updated": "2020-06-06 00:45:57",
+                "rating": "Not Rated",
+                "coop": "No",
+                "youtube": "https:\/\/www.youtube.com\/watch?v=IO8ela7UbXQ",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    67
+                ],
+                "genres": [
+                    1,
+                    2,
+                    5
+                ],
+                "publishers": [
+                    89
+                ],
+                "alternates": [
+                    "Back to the Future II & III",
+                    "Back to the Future 2 & 3",
+                    "Back to the Future Part 2 & 3"
+                ]
+            },
+            {
+                "id": 332,
+                "game_title": "Bad Dudes",
+                "release_date": "1989-07-14",
+                "platform": 7,
+                "players": 2,
+                "overview": "The game starts in New York City, where President Ronnie (based on former U.S. President Ronald Reagan) has been kidnapped by the nefarious DragonNinja. The intro says: \"Rampant ninja related crimes these days... Whitehouse is not the exception...\". As soon as that occurs, a Secret Service agent (who resembles Arnold Schwarzenegger as he appears in The Terminator) asks two street-smart brawlers, named Blade and Striker: \"President Ronnie has been kidnapped by the ninjas. Are you a bad enough dude to rescue Ronnie?\", which this quote became an infamous meme and is often lampooned on the Internet. In the Japanese version, however, the words are completely different. After they heard that, the Bad Dudes confirmed it by pursuing the DragonNinja through the city streets, highway, sewers, transport train, forest, cave and into the secret ninja base, in order to save President Ronnie.",
+                "last_updated": "2018-12-03 20:07:30",
+                "rating": "Not Rated",
+                "coop": "No",
+                "youtube": "https:\/\/www.youtube.com\/watch?v=gPYJsxeQOMc",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    2126
+                ],
+                "genres": [
+                    10
+                ],
+                "publishers": [
+                    39
+                ],
+                "alternates": null
+            },
+            {
+                "id": 333,
+                "game_title": "Balloon Fight",
+                "release_date": "1985-01-02",
+                "platform": 7,
+                "players": 2,
+                "overview": "The player controls the unnamed Balloon Fighter with two balloons attached to his back. Repeatedly pressing the A or B buttons causes the Balloon Fighter to flap his arms and rise into the air. If a balloon is popped, the player's flotation is decreased, making it harder to rise. A life is lost if both balloons are popped by enemy Balloon Fighters, if the player falls in the water, gets eaten by the large fish near the surface of the water, or is hit by lightning.",
+                "last_updated": "2020-06-06 00:48:10",
+                "rating": "Not Rated",
+                "coop": "No",
+                "youtube": "lAuwf_JiIo4",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    6037
+                ],
+                "genres": [
+                    1
+                ],
+                "publishers": [
+                    3
+                ],
+                "alternates": null
+            },
+            {
+                "id": 334,
+                "game_title": "The Bard's Tale",
+                "release_date": "1991-11-01",
+                "platform": 7,
+                "players": 1,
+                "overview": "Long ago, when magic still prevailed, the evil wizard Mangar the Dark threatened a small but harmonious country town called Skara Brae. Evil creatures oozed into Skara Brae and joined his shadow domain. Mangar froze the surrounding lands with a spell of Eternal Winter, totally isolating Skara Brae from any possible help. Then, one night the town militiamen all disappeared. The future of Skara Brae hung in the balance. And who was left to resist? Only a handful of unproven young Warriors, junior Magic Users, a couple of Bards barely old enough to drink, and some out of work Rogues. You are there. You are the leader of this ragtag group of freedom fighters. Luckily you have a Bard with you to sing your glories, if you survive. For this is the stuff of legends. And so the story begins...",
+                "last_updated": "2019-07-24 15:31:59",
+                "rating": "Not Rated",
+                "coop": "No",
+                "youtube": "R6EkbfgXqWg",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    4287
+                ],
+                "genres": [
+                    4
+                ],
+                "publishers": [
+                    2,
+                    3282
+                ],
+                "alternates": [
+                    "The Bard's Tale - Tales of the Unknown"
+                ]
+            },
+            {
+                "id": 335,
+                "game_title": "Baseball",
+                "release_date": "1985-10-18",
+                "platform": 7,
+                "players": 2,
+                "overview": "Baseball is a simple baseball video game made by Nintendo in 1983 for the Nintendo Family Computer, making it one of the first games released for the Famicom. It was later one of the NES's 18 launch titles when it was released in 1985 in the United States. As in real baseball, the object of the game is to score the most runs. Up to two players are supported. Each player can select from one of six teams. Although there is no difference between them other than uniform color, they are meant to represent the six members of the Japanese Central League.",
+                "last_updated": "2020-05-11 22:13:57",
+                "rating": "Not Rated",
+                "coop": "No",
+                "youtube": "3RxgAJ4qtgY",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    6037
+                ],
+                "genres": [
+                    11
+                ],
+                "publishers": [
+                    3
+                ],
+                "alternates": null
+            },
+            {
+                "id": 336,
+                "game_title": "Bases Loaded II: Second Season",
+                "release_date": "1989-01-01",
+                "platform": 7,
+                "players": 2,
+                "overview": "The game is the second installment of the Bases Loaded series. The series spanned three generations of consoles and eight total installments. The original Bases Loaded title was an arcade game that Jalelco ported to the NES. Only the original Bases Loaded was an acrade game; the rest of the series were exclusive to their particular consoles. There are four video games in the Bases Loaded NES series, Bases Loaded II: Second Season, Bases Loaded 3 and Bases Loaded 4. There was also a Game Boy version of Bases Loaded. The series continued onto the SNES platform with Super Bases Loaded, Super Bases Loaded 2, and Super Bases Loaded 3. The final entry to the series was Bases Loaded '96: Double Header, released for the fifth generation consoles Sega Saturn and PlayStation.",
+                "last_updated": "2020-06-06 00:53:55",
+                "rating": "Not Rated",
+                "coop": "No",
+                "youtube": "FaUk0DCgBI4",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    8959
+                ],
+                "genres": [
+                    11
+                ],
+                "publishers": [
+                    94
+                ],
+                "alternates": [
+                    "Bases Loaded 2 Second Season",
+                    "Bases Loaded 2"
+                ]
+            },
+            {
+                "id": 337,
+                "game_title": "Batman: The Video Game",
+                "release_date": "1990-02-01",
+                "platform": 7,
+                "players": 1,
+                "overview": "He's totally new. Totally tough. And he'll stop at nothing to make sure justice prevails! From the dark streets of GOTHAM CITY to the deepest corners of the criminal underworld comes the CAPED CRUSADER as you've never seen him before. Incredibly strong. Armed to the teeth. And ready to put his life on the line for the sake of all, on a search-and-destroy mission to end the Joker's reign of terror. He leaps, he flies, he dodges enemy fire and delivers it right back... with a vengeance. This is no kid stuff. This is as real as video gaming gets. If you liked what you saw in the movie, you're gonna love what you see here. Because this time around, BATMAN is all business, and he won't let anything stand in his way!",
+                "last_updated": "2018-07-11 21:05:01",
+                "rating": "E - Everyone",
+                "coop": "No",
+                "youtube": "https:\/\/www.youtube.com\/watch?v=SLV9RHXnceg",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    8329
+                ],
+                "genres": [
+                    1
+                ],
+                "publishers": [
+                    75
+                ],
+                "alternates": null
+            },
+            {
+                "id": 338,
+                "game_title": "Castlevania II: Simon's Quest",
+                "release_date": "1988-12-01",
+                "platform": 7,
+                "players": 1,
+                "overview": "Castlevania was a cakewalk compared to this bloody curse. You thought you had the Prince of Darkness defanged - eh, Simon Belmont? Well think again, 'cause according to a damsel in distress, evil Count Dracula has left a horrifying curse in his wake. And the only hope you have of ending the terror is to destroy his missing body parts! Talk about your frightening quest, searching a maze of mansions, graveyards and dark, eerie forests - each guarded by man-eating werewolves, fire-throwing zombies and other devilish demons. Your grim chances are kept alive in Transylvania, where cowardly villagers offer clues to the whereabouts of Dracula's remains. And where you'll purchase magic weapons, including silver knives and flame whips. But beware the night. For when the sun disappears, Dracula's curse grows deadlier. And your chances grow dimmer and dimmer.",
+                "last_updated": "2018-07-06 22:32:55",
+                "rating": "E - Everyone",
+                "coop": "No",
+                "youtube": "KK9Im7YtDz8",
+                "os": null,
+                "processor": null,
+                "ram": null,
+                "hdd": null,
+                "video": null,
+                "sound": null,
+                "developers": [
+                    4765
+                ],
+                "genres": [
+                    1,
+                    2,
+                    15
+                ],
+                "publishers": [
+                    23
+                ],
+                "alternates": [
+                    "Castlevania 2"
+                ]
+            }
+        ]
+    },
+    "pages": {
+        "previous": "https:\/\/api.thegamesdb.net\/v1\/Games\/ByPlatformID?apikey=a94068d9ef3e220c798a35644136368664b13ded607779d7f48050da7bc504c1&id=7&fields=players%2Cpublishers%2Cgenres%2Coverview%2Clast_updated%2Crating%2Cplatform%2Ccoop%2Cyoutube%2Cos%2Cprocessor%2Cram%2Chdd%2Cvideo%2Csound%2Calternates&page=1",
+        "current": "https:\/\/api.thegamesdb.net\/v1\/Games\/ByPlatformID?apikey=a94068d9ef3e220c798a35644136368664b13ded607779d7f48050da7bc504c1&id=7&fields=players%2Cpublishers%2Cgenres%2Coverview%2Clast_updated%2Crating%2Cplatform%2Ccoop%2Cyoutube%2Cos%2Cprocessor%2Cram%2Chdd%2Cvideo%2Csound%2Calternates&page=2",
+        "next": "https:\/\/api.thegamesdb.net\/v1\/Games\/ByPlatformID?apikey=a94068d9ef3e220c798a35644136368664b13ded607779d7f48050da7bc504c1&id=7&fields=players%2Cpublishers%2Cgenres%2Coverview%2Clast_updated%2Crating%2Cplatform%2Ccoop%2Cyoutube%2Cos%2Cprocessor%2Cram%2Chdd%2Cvideo%2Csound%2Calternates&page=3"
+    },
+    "remaining_monthly_allowance": 2988,
+    "extra_allowance": 0,
+    "allowance_refresh_timer": 2308554
+}
