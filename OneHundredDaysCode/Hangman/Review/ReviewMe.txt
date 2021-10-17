@@ -1,0 +1,19 @@
+When to use basic data structures
+list [1,2,3,a,b,c]
+    List methods (append, insert, extend, clear, pop, remove and more...)
+
+dictionary {key: value}
+tuple (name,age,weight)
+set{Jon,Male,38}
+
+
+
+functions (*args, **kwargs) and unpacking those
+lambda
+Map
+Filter
+Sorted
+zip
+
+
+unpacking tuples and dictionaries using list comprehensions and star syntax and whatever other methods
